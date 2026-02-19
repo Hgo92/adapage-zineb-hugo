@@ -7,7 +7,6 @@ import Specificites from "./pages/Specificites";
 import Frise from "./pages/Frise";
 import Footer from "./components/Footer";
 import NotFound from "./pages/NotFound";
-import ThemeToggle from "./components/ThemeToggle";
 
 
 
